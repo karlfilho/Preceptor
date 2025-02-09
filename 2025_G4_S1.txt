@@ -1,0 +1,80 @@
+Lista de preceptores sorteados:
+Andrea Menezes
+Cassiano Andalaft
+Mariana Marimoto
+Natasha Meletti
+Caroline Panone
+Gabriel Monteiro
+Javier Rubio
+Thomas Miklos
+Elizandra Rosado
+Alexandre
+Juliana Aquino
+Karl Richard
+Luiza da Gama
+Cássia Pedroga
+Maria Cristina
+Luciana Lunardi
+Marta Kempf
+Thomas Miklos
+Andrea Menezes
+Luiza da Gama
+Elizandra Rosado
+Javier Rubio
+Caroline Panone
+Cassiano Andalaft
+Cássia Pedroga
+Juliana Aquino
+Alexandre
+Karl Richard
+
+Distribuição final dos alunos:
+Karl Richard: 2 aluno(s)
+Luciana Lunardi: 1 aluno(s)
+Javier Rubio: 2 aluno(s)
+Thomas Miklos: 2 aluno(s)
+Gabriel Monteiro: 1 aluno(s)
+Maria Cristina: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+Luiza da Gama: 2 aluno(s)
+Juliana Aquino: 2 aluno(s)
+Cassiano Andalaft: 2 aluno(s)
+Mariana Marimoto: 1 aluno(s)
+Caroline Panone: 2 aluno(s)
+Elizandra Rosado: 2 aluno(s)
+Natasha Meletti: 1 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Alexandre: 2 aluno(s)
+Marta Kempf: 1 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ALEXANDRE OLIVEIRA DE MATOS SILVA                  | Andrea Menezes
+ERIC IALAS MAMMANA BASTOS BORGES                   | Cassiano Andalaft
+GABRIEL ROLDAO MARCONI                             | Mariana Marimoto
+RAFAEL VASCONCELLOS GUSMAO                         | Natasha Meletti
+RODRIGO AZAR ABDOU                                 | Caroline Panone
+VICTOR VOLPE GOUVEA SOARES                         | Gabriel Monteiro
+WEVERTON AUGUSTO SACCHI LEITE                      | Javier Rubio
+CAROLINA DE PAIVA SANTOS                           | Thomas Miklos
+GIOVANNA SETO DE OLIVEIRA                          | Elizandra Rosado
+ISABELA GATTI ULIANA                               | Alexandre
+MEL BOLDRIM ZIMMER                                 | Juliana Aquino
+ROBERTA LEIVA SIMONE                               | Karl Richard
+SOFIA DE ANDRADE                                   | Luiza da Gama
+VALENTINA CHAGAS MANCEBO SANTOS                    | Cássia Pedroga
+AMANDA AVANCINI FERNANDES                          | Maria Cristina
+ALEXANDRA DUARTE SAIGH                             | Luciana Lunardi
+BEATRIZ MITSUIUQUI JOAO                            | Marta Kempf
+MARIA BEATRIZ NUNES GUIMARAES                      | Thomas Miklos
+MARIA PAULA BORDON MACHLINE                        | Andrea Menezes
+MARIANA PERY KHOURY                                | Luiza da Gama
+VINICIUS PESSOLATO MARCHESIN                       | Elizandra Rosado
+CAMILA DALLA MARTHA SATRIANO                       | Javier Rubio
+CAROLINA TRABASSO FERRAZ DE OLIVEIRA               | Caroline Panone
+GUSTAVO NARCHI GABRIEL                             | Cassiano Andalaft
+JOAO AUGUSTO CAMARGO MOREIRA                       | Cássia Pedroga
+MARIA EDUARDA MOROSINI DOURADO                     | Juliana Aquino
+THAYANE DE FREITAS RIBEIRO                         | Alexandre
+VICTOR BALBY CASANOVAS CARVALHO                    | Karl Richard
