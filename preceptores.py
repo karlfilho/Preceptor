@@ -33,12 +33,17 @@ for nome in indisponiveis:
 # Dicionário para controlar o número de alunos por preceptor
 alunos_por_preceptor = {nome: 0 for nome, disponivel in preceptores.items() if disponivel}
 
+print("Digite os nomes dos alunos, um por linha. Quando terminar, pressione Enter em uma linha vazia:")
+alunos = []
 while True:
-    aluno = input("\nDigite o nome do aluno (ou 'sair' para encerrar): ").strip()
-    
-    if aluno.lower() == 'sair':
+    linha = input().strip()
+    if linha == "":
         break
-        
+    alunos.append(linha)
+
+lista_preceptores_sorteados = []
+
+for aluno in alunos:
     # Dividir preceptores disponíveis em dois grupos: sem alunos e com um aluno
     sem_alunos = [nome for nome, count in alunos_por_preceptor.items() if count == 0]
     com_um_aluno = [nome for nome, count in alunos_por_preceptor.items() if count == 1]
@@ -53,11 +58,12 @@ while True:
         break
         
     alunos_por_preceptor[preceptor_sorteado] += 1
-    
-    print(f"Aluno {aluno} foi atribuído ao preceptor {preceptor_sorteado}.")
-    print("\n\nSituação atual:", alunos_por_preceptor)
+    lista_preceptores_sorteados.append(preceptor_sorteado)
 
-# Mostrar distribuição final
+print("\nLista de preceptores sorteados:")
+for preceptor in lista_preceptores_sorteados:
+    print(preceptor)
+
 print("\nDistribuição final dos alunos:")
 for preceptor, quantidade in alunos_por_preceptor.items():
     print(f"{preceptor}: {quantidade} aluno(s)") 
