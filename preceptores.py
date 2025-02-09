@@ -66,4 +66,10 @@ for preceptor in lista_preceptores_sorteados:
 
 print("\nDistribuição final dos alunos:")
 for preceptor, quantidade in alunos_por_preceptor.items():
-    print(f"{preceptor}: {quantidade} aluno(s)") 
+    print(f"{preceptor}: {quantidade} aluno(s)")
+
+print("\nTabela de alunos e preceptores:")
+print("{:<50} | {}".format("Aluno", "Preceptor"))
+print("-" * 70)
+for aluno, preceptor in zip(alunos, lista_preceptores_sorteados):
+    print("{:<50} | {}".format(aluno, preceptor)) 
