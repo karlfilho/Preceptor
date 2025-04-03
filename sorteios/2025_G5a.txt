@@ -1,0 +1,88 @@
+Lista de preceptores sorteados:
+Caroline Panone
+Mariana Marimoto
+Aline Evangelista
+Gabriel Monteiro
+Juliana Aquino
+Javier Rubio
+Andrea Menezes
+Maria Cristina
+Karl Richard
+Cássia Pedroga
+Thomas Miklos
+Lucas Ribeiro
+Luiza da Gama
+Alexandre
+Luciana Lunardi
+Elizandra Rosado
+Marta Kempf
+Cassiano Andalaft
+Natasha Meletti
+Cássia Pedroga
+Aline Evangelista
+Cassiano Andalaft
+Elizandra Rosado
+Caroline Panone
+Karl Richard
+Andrea Menezes
+Marta Kempf
+Alexandre
+Luciana Lunardi
+Thomas Miklos
+Juliana Aquino
+
+Distribuição final dos alunos:
+Karl Richard: 2 aluno(s)
+Luciana Lunardi: 2 aluno(s)
+Javier Rubio: 1 aluno(s)
+Thomas Miklos: 2 aluno(s)
+Gabriel Monteiro: 1 aluno(s)
+Maria Cristina: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+Luiza da Gama: 1 aluno(s)
+Lucas Ribeiro: 1 aluno(s)
+Juliana Aquino: 2 aluno(s)
+Cassiano Andalaft: 2 aluno(s)
+Mariana Marimoto: 1 aluno(s)
+Caroline Panone: 2 aluno(s)
+Elizandra Rosado: 2 aluno(s)
+Natasha Meletti: 1 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre: 2 aluno(s)
+Marta Kempf: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ANA FLAVIA HISSA                                   | Caroline Panone
+GABRIEL MAKOTO TAGAWA                              | Mariana Marimoto
+ISABELA COSTA MACE                                 | Aline Evangelista
+LUCA ATROCH BARBUTI                                | Gabriel Monteiro
+MARCELA BARIANI PINTO                              | Juliana Aquino
+MARIA EDUARDA DE OLIVEIRA LIMA MECA DUAILIBI       | Javier Rubio
+ULISSES HENRIQUE NASTRO ACUNA                      | Andrea Menezes
+VICTORIA BLUM COLLOCA                              | Maria Cristina
+BEATRIZ BARRETO SOBRAL NUNES                       | Karl Richard
+CAIO CONTELL TEIXEIRA DA SILVA                     | Cássia Pedroga
+EDUARDO BARCELLOS TOLENTINO                        | Thomas Miklos
+ISABELLE COZE GERALDINI                            | Lucas Ribeiro
+JANINE MAIRA TORRES SENA BARBOSA                   | Luiza da Gama
+JULIANA DEL MONTE                                  | Alexandre
+MATHEUS DE BARROS MARCONDES                        | Luciana Lunardi
+ALÍCIA EXEL DOS SANTOS FRANCO                      | Elizandra Rosado
+GABRIELA XAVIER ALMEIDA                            | Marta Kempf
+GUSTAVO SANTA ROSA FONSECA                         | Cassiano Andalaft
+ISADORA ARAUJO MARTINS                             | Natasha Meletti
+LUCCA PEREIRA BOZELLI                              | Cássia Pedroga
+MARCO ANTONIO MOREIRA REITER                       | Aline Evangelista
+PIETRA MARIA DE LUCA                               | Cassiano Andalaft
+SARAH GERMANO ANDRADE                              | Elizandra Rosado
+BEATRIZ DE QUEIROZ ZAHER SANT'ANNA                 | Caroline Panone
+FLAVIA VIANA ZELI                                  | Karl Richard
+LEONARDO PINTO BARBOSA                             | Andrea Menezes
+LUIZ OCTAVIO DE LOYOLA SANTOS                      | Marta Kempf
+MARIA JULIA MARCOLINI ENGLER                       | Alexandre
+MARINA MARTINS RATAO                               | Luciana Lunardi
+MURILO PALUDETTO MINICUCCI CRUZ                    | Thomas Miklos
+TAMIE REGINA SAMOMIYA SATO                         | Juliana Aquino

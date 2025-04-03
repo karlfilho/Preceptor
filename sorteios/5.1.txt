@@ -1,0 +1,45 @@
+Lista de preceptores sorteados:
+Elizandra Rosado
+Aline Evangelista
+Andrea Menezes
+Gabriel Monteiro
+Thomas Miklos
+Alexandre
+Javier Rubio
+Caroline Panone
+Andrea Menezes
+Aline Evangelista
+Alexandre
+Gabriel Monteiro
+Elizandra Rosado
+Thomas Miklos
+Javier Rubio
+
+Distribuição final dos alunos:
+Javier Rubio: 2 aluno(s)
+Thomas Miklos: 2 aluno(s)
+Gabriel Monteiro: 2 aluno(s)
+Caroline Panone: 1 aluno(s)
+Elizandra Rosado: 2 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ANA FLAVIA HISSA                                   | Elizandra Rosado
+GABRIEL MAKOTO TAGAWA                              | Aline Evangelista
+ISABELA COSTA MACE                                 | Andrea Menezes
+LUCA ATROCH BARBUTI                                | Gabriel Monteiro
+MARCELA BARIANI PINTO                              | Thomas Miklos
+MARIA EDUARDA DE OLIVEIRA LIMA MECA DUAILIBI       | Alexandre
+ULISSES HENRIQUE NASTRO ACUNA                      | Javier Rubio
+VICTORIA BLUM COLLOCA                              | Caroline Panone
+BEATRIZ BARRETO SOBRAL NUNES                       | Andrea Menezes
+CAIO CONTELL TEIXEIRA DA SILVA                     | Aline Evangelista
+EDUARDO BARCELLOS TOLENTINO                        | Alexandre
+ISABELLE COZE GERALDINI                            | Gabriel Monteiro
+JANINE MAIRA TORRES SENA BARBOSA                   | Elizandra Rosado
+JULIANA DEL MONTE                                  | Thomas Miklos
+MATHEUS DE BARROS MARCONDES                        | Javier Rubio

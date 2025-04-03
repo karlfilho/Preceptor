@@ -10,7 +10,6 @@ class PreceptorAssignment:
             "Thomas Miklos": True,
             "Gabriel Monteiro": True,
             "Maria Cristina": True,
-            "Cássia Pedroga": True,
             "Luiza da Gama": True,
             "Lucas Ribeiro": True,
             "Juliana Aquino": True,
@@ -22,13 +21,14 @@ class PreceptorAssignment:
             "Andrea Menezes": True,
             "Aline Evangelista": True,
             "Alexandre": True,
-            "Marta Kempf": True,
         }
+
         # Dicionário para controlar o número de alunos por preceptor (inicialmente com todos disponíveis)
         self.alunos_por_preceptor = {nome: 0 for nome, disponivel in self.preceptores.items() if disponivel}
         self.alunos = []  # Lista de alunos a serem processados
         self.lista_preceptores_sorteados = []  # Lista de preceptores sorteados (ordem dos alunos)
         self.grupo_nome = ""  # Nome do grupo de alunos
+
 
     def configurar_preceptores(self):
         """Atualiza a disponibilidade dos preceptores conforme os informados pelo usuário."""
@@ -39,6 +39,7 @@ class PreceptorAssignment:
         # Reconfigura o dicionário para controlar o número de alunos apenas com preceptores disponíveis
         self.alunos_por_preceptor = {nome: 0 for nome, disponivel in self.preceptores.items() if disponivel}
 
+
     def ler_alunos(self):
         """Lê o nome do grupo de alunos e a lista de alunos, um por linha."""
         self.grupo_nome = input("Digite o nome do grupo de alunos: ").strip()
@@ -48,6 +49,7 @@ class PreceptorAssignment:
             if linha == "":
                 break
             self.alunos.append(linha)
+
 
     def atribuir_preceptores(self):
         """Atribui um preceptor para cada aluno, priorizando aqueles que ainda não receberam alunos."""
@@ -67,6 +69,7 @@ class PreceptorAssignment:
             self.alunos_por_preceptor[preceptor_sorteado] += 1
             self.lista_preceptores_sorteados.append(preceptor_sorteado)
 
+
     def exibir_resultados(self):
         """Exibe a lista de preceptores sorteados, a distribuição final e a tabela de alunos e preceptores."""
         print("\nLista de preceptores sorteados:")
@@ -82,6 +85,7 @@ class PreceptorAssignment:
         print("-" * 70)
         for aluno, preceptor in zip(self.alunos, self.lista_preceptores_sorteados):
             print("{:<50} | {}".format(aluno, preceptor))
+
 
     def salvar_resultados(self):
         """Salva os resultados em um arquivo de texto cujo nome é o do grupo de alunos."""
@@ -100,6 +104,7 @@ class PreceptorAssignment:
             for aluno, preceptor in zip(self.alunos, self.lista_preceptores_sorteados):
                 f.write("{:<50} | {}\n".format(aluno, preceptor))
         print(f"\nResultados salvos em: {filename}")
+
 
     def run(self):
         """Método principal para executar todas as etapas do programa."""

@@ -1,0 +1,47 @@
+Lista de preceptores sorteados:
+Cassiano Andalaft
+Luiza da Gama
+Lucas Ribeiro
+Juliana Aquino
+Luciana Lunardi
+Karl Richard
+Maria Cristina
+Mariana Marimoto
+Juliana Aquino
+Luiza da Gama
+Luciana Lunardi
+Cassiano Andalaft
+Lucas Ribeiro
+Karl Richard
+Maria Cristina
+Mariana Marimoto
+
+Distribuição final dos alunos:
+Karl Richard: 2 aluno(s)
+Luciana Lunardi: 2 aluno(s)
+Maria Cristina: 2 aluno(s)
+Luiza da Gama: 2 aluno(s)
+Lucas Ribeiro: 2 aluno(s)
+Juliana Aquino: 2 aluno(s)
+Cassiano Andalaft: 2 aluno(s)
+Mariana Marimoto: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ALÍCIA EXEL DOS SANTOS FRANCO                      | Cassiano Andalaft
+GABRIELA XAVIER ALMEIDA                            | Luiza da Gama
+GUSTAVO SANTA ROSA FONSECA                         | Lucas Ribeiro
+ISADORA ARAUJO MARTINS                             | Juliana Aquino
+LUCCA PEREIRA BOZELLI                              | Luciana Lunardi
+MARCO ANTONIO MOREIRA REITER                       | Karl Richard
+PIETRA MARIA DE LUCA                               | Maria Cristina
+SARAH GERMANO ANDRADE                              | Mariana Marimoto
+BEATRIZ DE QUEIROZ ZAHER SANT'ANNA                 | Juliana Aquino
+FLAVIA VIANA ZELI                                  | Luiza da Gama
+LEONARDO PINTO BARBOSA                             | Luciana Lunardi
+LUIZ OCTAVIO DE LOYOLA SANTOS                      | Cassiano Andalaft
+MARIA JULIA MARCOLINI ENGLER                       | Lucas Ribeiro
+MARINA MARTINS RATAO                               | Karl Richard
+MURILO PALUDETTO MINICUCCI CRUZ                    | Maria Cristina
+TAMIE REGINA SAMOMIYA SATO                         | Mariana Marimoto

@@ -1,0 +1,88 @@
+Lista de preceptores sorteados:
+Marta Kempf
+Karl Richard
+Javier Rubio
+Cássia Pedroga
+Alexandre
+Maria Cristina
+Andrea Menezes
+Elizandra Rosado
+Gabriel Monteiro
+Luiza da Gama
+Thomas Miklos
+Aline Evangelista
+Cassiano Andalaft
+Caroline Panone
+Natasha Meletti
+Lucas Ribeiro
+Mariana Marimoto
+Juliana Aquino
+Luciana Lunardi
+Aline Evangelista
+Lucas Ribeiro
+Cássia Pedroga
+Andrea Menezes
+Natasha Meletti
+Luiza da Gama
+Gabriel Monteiro
+Alexandre
+Javier Rubio
+Karl Richard
+Marta Kempf
+Cassiano Andalaft
+
+Distribuição final dos alunos:
+Karl Richard: 2 aluno(s)
+Luciana Lunardi: 1 aluno(s)
+Javier Rubio: 2 aluno(s)
+Thomas Miklos: 1 aluno(s)
+Gabriel Monteiro: 2 aluno(s)
+Maria Cristina: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+Luiza da Gama: 2 aluno(s)
+Lucas Ribeiro: 2 aluno(s)
+Juliana Aquino: 1 aluno(s)
+Cassiano Andalaft: 2 aluno(s)
+Mariana Marimoto: 1 aluno(s)
+Caroline Panone: 1 aluno(s)
+Elizandra Rosado: 1 aluno(s)
+Natasha Meletti: 2 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre: 2 aluno(s)
+Marta Kempf: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ANA FLAVIA HISSA                                   | Marta Kempf
+GABRIEL MAKOTO TAGAWA                              | Karl Richard
+ISABELA COSTA MACE                                 | Javier Rubio
+LUCA ATROCH BARBUTI                                | Cássia Pedroga
+MARCELA BARIANI PINTO                              | Alexandre
+MARIA EDUARDA DE OLIVEIRA LIMA MECA DUAILIBI       | Maria Cristina
+ULISSES HENRIQUE NASTRO ACUNA                      | Andrea Menezes
+VICTORIA BLUM COLLOCA                              | Elizandra Rosado
+BEATRIZ BARRETO SOBRAL NUNES                       | Gabriel Monteiro
+CAIO CONTELL TEIXEIRA DA SILVA                     | Luiza da Gama
+EDUARDO BARCELLOS TOLENTINO                        | Thomas Miklos
+ISABELLE COZE GERALDINI                            | Aline Evangelista
+JANINE MAIRA TORRES SENA BARBOSA                   | Cassiano Andalaft
+JULIANA DEL MONTE                                  | Caroline Panone
+MATHEUS DE BARROS MARCONDES                        | Natasha Meletti
+ALÍCIA EXEL DOS SANTOS FRANCO                      | Lucas Ribeiro
+GABRIELA XAVIER ALMEIDA                            | Mariana Marimoto
+GUSTAVO SANTA ROSA FONSECA                         | Juliana Aquino
+ISADORA ARAUJO MARTINS                             | Luciana Lunardi
+LUCCA PEREIRA BOZELLI                              | Aline Evangelista
+MARCO ANTONIO MOREIRA REITER                       | Lucas Ribeiro
+PIETRA MARIA DE LUCA                               | Cássia Pedroga
+SARAH GERMANO ANDRADE                              | Andrea Menezes
+BEATRIZ DE QUEIROZ ZAHER SANT'ANNA                 | Natasha Meletti
+FLAVIA VIANA ZELI                                  | Luiza da Gama
+LEONARDO PINTO BARBOSA                             | Gabriel Monteiro
+LUIZ OCTAVIO DE LOYOLA SANTOS                      | Alexandre
+MARIA JULIA MARCOLINI ENGLER                       | Javier Rubio
+MARINA MARTINS RATAO                               | Karl Richard
+MURILO PALUDETTO MINICUCCI CRUZ                    | Marta Kempf
+TAMIE REGINA SAMOMIYA SATO                         | Cassiano Andalaft

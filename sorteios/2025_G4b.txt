@@ -1,0 +1,82 @@
+Lista de preceptores sorteados:
+Marta Kempf
+Elizandra Rosado
+Luciana Lunardi
+Natasha Meletti
+Gabriel Monteiro
+Aline Evangelista
+Luiza da Gama
+Andrea Menezes
+Lucas Ribeiro
+Javier Rubio
+Cássia Pedroga
+Caroline Panone
+Maria Cristina
+Mariana Marimoto
+Thomas Miklos
+Alexandre
+Cassiano Andalaft
+Juliana Aquino
+Karl Richard
+Luciana Lunardi
+Andrea Menezes
+Cássia Pedroga
+Natasha Meletti
+Caroline Panone
+Luiza da Gama
+Aline Evangelista
+Alexandre
+Gabriel Monteiro
+
+Distribuição final dos alunos:
+Karl Richard: 1 aluno(s)
+Luciana Lunardi: 2 aluno(s)
+Javier Rubio: 1 aluno(s)
+Thomas Miklos: 1 aluno(s)
+Gabriel Monteiro: 2 aluno(s)
+Maria Cristina: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+Luiza da Gama: 2 aluno(s)
+Lucas Ribeiro: 1 aluno(s)
+Juliana Aquino: 1 aluno(s)
+Cassiano Andalaft: 1 aluno(s)
+Mariana Marimoto: 1 aluno(s)
+Caroline Panone: 2 aluno(s)
+Elizandra Rosado: 1 aluno(s)
+Natasha Meletti: 2 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre: 2 aluno(s)
+Marta Kempf: 1 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ALEXANDRE OLIVEIRA DE MATOS SILVA                  | Marta Kempf
+ERIC IALAS MAMMANA BASTOS BORGES                   | Elizandra Rosado
+GABRIEL ROLDAO MARCONI                             | Luciana Lunardi
+RAFAEL VASCONCELLOS GUSMAO                         | Natasha Meletti
+RODRIGO AZAR ABDOU                                 | Gabriel Monteiro
+VICTOR VOLPE GOUVEA SOARES                         | Aline Evangelista
+WEVERTON AUGUSTO SACCHI LEITE                      | Luiza da Gama
+CAROLINA DE PAIVA SANTOS                           | Andrea Menezes
+GIOVANNA SETO DE OLIVEIRA                          | Lucas Ribeiro
+ISABELA GATTI ULIANA                               | Javier Rubio
+MEL BOLDRIM ZIMMER                                 | Cássia Pedroga
+ROBERTA LEIVA SIMONE                               | Caroline Panone
+SOFIA DE ANDRADE                                   | Maria Cristina
+VALENTINA CHAGAS MANCEBO SANTOS                    | Mariana Marimoto
+AMANDA AVANCINI FERNANDES                          | Thomas Miklos
+ALEXANDRA DUARTE SAIGH                             | Alexandre
+BEATRIZ MITSUIUQUI JOAO                            | Cassiano Andalaft
+MARIA BEATRIZ NUNES GUIMARAES                      | Juliana Aquino
+MARIA PAULA BORDON MACHLINE                        | Karl Richard
+MARIANA PERY KHOURY                                | Luciana Lunardi
+VINICIUS PESSOLATO MARCHESIN                       | Andrea Menezes
+CAMILA DALLA MARTHA SATRIANO                       | Cássia Pedroga
+CAROLINA TRABASSO FERRAZ DE OLIVEIRA               | Natasha Meletti
+GUSTAVO NARCHI GABRIEL                             | Caroline Panone
+JOAO AUGUSTO CAMARGO MOREIRA                       | Luiza da Gama
+MARIA EDUARDA MOROSINI DOURADO                     | Aline Evangelista
+THAYANE DE FREITAS RIBEIRO                         | Alexandre
+VICTOR BALBY CASANOVAS CARVALHO                    | Gabriel Monteiro
