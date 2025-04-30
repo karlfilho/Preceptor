@@ -1,0 +1,45 @@
+Turno: tarde
+
+Lista de preceptores sorteados:
+Larissa Pires
+Alexandre Nosaki
+Andrea Menezes
+Elizandra Rosado
+Caroline Panone
+Aline Evangelista
+Caroline Panone
+Aline Evangelista
+Larissa Pires
+Andrea Menezes
+Elizandra Rosado
+Alexandre Nosaki
+Aline Evangelista
+Caroline Panone
+Alexandre Nosaki
+
+Distribuição final dos alunos:
+Caroline Panone: 3 aluno(s)
+Elizandra Rosado: 2 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 3 aluno(s)
+Alexandre Nosaki: 3 aluno(s)
+Larissa Pires: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ANA LUIZA VASCONCELOS JUNQUEIRA                    | Larissa Pires
+ATILLA GABRIEL TRASLADAÇÃO                         | Alexandre Nosaki
+CAMYLA DUARTE DOS SANTOS                           | Andrea Menezes
+FERNANDA PEREIRA LEMOS BARBOSA                     | Elizandra Rosado
+GABRIELLI AMORIM SAMPAIO                           | Caroline Panone
+JESSICA ALVES DE CASTRO SILVEIRA                   | Aline Evangelista
+JOÃO VICTOR NUNES                                  | Caroline Panone
+MARIA TEREZA DE OLIVEIRA SOUZA                     | Aline Evangelista
+CLARA FERREIRA SALAZAR                             | Larissa Pires
+CLAUDIA MINGRONE                                   | Andrea Menezes
+GIOVANNA BICUDO FERREIRA                           | Elizandra Rosado
+ISADORA VELLOZO BEANI                              | Alexandre Nosaki
+LINDA NIZAR ELIAS                                  | Aline Evangelista
+MARIA FERNANDA CALDIRON DE SALLES FERRO            | Caroline Panone
+POLIANA ALBA LEONCIO                               | Alexandre Nosaki

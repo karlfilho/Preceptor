@@ -31,25 +31,21 @@ class PreceptorAssignment:
             self.alunos.append(linha)
 
     def atribuir_preceptores(self):
-        """Atribui um preceptor para cada aluno, garantindo que todos os preceptores tenham pelo menos 1 aluno."""
-        # Primeiro, garante que cada preceptor tenha pelo menos 1 aluno
+        """Atribui um preceptor para cada aluno, garantindo que todos os preceptores tenham o mesmo número de alunos antes de receberem mais um."""
         alunos_restantes = self.alunos.copy()
         random.shuffle(alunos_restantes)
         
-        # Distribui um aluno para cada preceptor
-        for preceptor in self.preceptores:
-            if alunos_restantes:
-                aluno = alunos_restantes.pop()
-                self.alunos_por_preceptor[preceptor] = 1
-                self.lista_preceptores_sorteados.append(preceptor)
-        
-        # Distribui os alunos restantes
         while alunos_restantes:
             aluno = alunos_restantes.pop()
-            # Encontra preceptores com menos de 2 alunos
-            preceptores_disponiveis = [nome for nome, count in self.alunos_por_preceptor.items() if count < 2]
+            
+            # Encontra o número mínimo de alunos por preceptor
+            min_alunos = min(self.alunos_por_preceptor.values())
+            
+            # Só pode atribuir para preceptores que têm o número mínimo de alunos
+            preceptores_disponiveis = [nome for nome, count in self.alunos_por_preceptor.items() if count == min_alunos]
+            
             if not preceptores_disponiveis:
-                print("Todos os preceptores já atingiram o limite máximo de 2 alunos!")
+                print("Não é possível distribuir mais alunos!")
                 break
             
             preceptor_sorteado = random.choice(preceptores_disponiveis)
