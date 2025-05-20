@@ -36,7 +36,7 @@ class PreceptorAssignment:
         random.shuffle(alunos_restantes)
         
         while alunos_restantes:
-            aluno = alunos_restantes.pop()
+            aluno = alunos_restantes.pop()  # noqa: F841
             
             # Encontra o número mínimo de alunos por preceptor
             min_alunos = min(self.alunos_por_preceptor.values())

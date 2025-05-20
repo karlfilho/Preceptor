@@ -1,0 +1,53 @@
+Turno: Tarde
+
+Lista de preceptores sorteados:
+Paulo Augusto
+Luiza da Gama
+Caroline Panone
+Andrea Menezes
+Aline Evangelista
+Thomas Miklos
+Elizandra Rosado
+Alexandre Nosaki
+Cássia Pedroga
+Gabriel Monteiro
+Javier Rubio
+Larissa Pires
+Aline Evangelista
+Andrea Menezes
+Paulo Augusto
+Luiza da Gama
+
+Distribuição final dos alunos:
+Caroline Panone: 1 aluno(s)
+Elizandra Rosado: 1 aluno(s)
+Luiza da Gama: 2 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre Nosaki: 1 aluno(s)
+Javier Rubio: 1 aluno(s)
+Thomas Miklos: 1 aluno(s)
+Paulo Augusto: 2 aluno(s)
+Larissa Pires: 1 aluno(s)
+Cássia Pedroga: 1 aluno(s)
+Gabriel Monteiro: 1 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ADRIANA MAIA FERNANDES                             | Paulo Augusto
+ANNA LAIS TEIXEIRA DOS SANTOS                      | Luiza da Gama
+BEATRIZ DE MORAES VALERY                           | Caroline Panone
+GIOVANNA BERTOLINI CHUERY                          | Andrea Menezes
+JULIA NAOMI ISIKI                                  | Aline Evangelista
+MARIA EDUARDA SANTOS FERNANDINO                    | Thomas Miklos
+RAFAELA MAXIMO DE SOUSA                            | Elizandra Rosado
+VITOR HUGO SOUSA BARBOSA DINIZ                     | Alexandre Nosaki
+ARTHUR MARTINS FERNANDES                           | Cássia Pedroga
+FELIPE DA ROCHA WELIKOW                            | Gabriel Monteiro
+GABRIELA MORAIS DO NASCIMENTO                      | Javier Rubio
+ISABELA TOLEDO                                     | Larissa Pires
+KLEBER RENE DA SILVA                               | Aline Evangelista
+LARA BATISTONI ZATI                                | Andrea Menezes
+RAQUEL ANASTACIO SANTOS                            | Paulo Augusto
+VALERIA SAYURI COMOSAKO                            | Luiza da Gama

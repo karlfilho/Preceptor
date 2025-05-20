@@ -1,0 +1,50 @@
+Turno: Manhã
+
+Lista de preceptores sorteados:
+Lucas Ribeiro
+Mariana Marimoto
+Maria Cristina
+Larissa Pires
+Juliana Aquino
+Luciana Lunardi
+Gabriel Monteiro
+Karl Richard
+Thais Alves
+Cassiano Andalaft
+Cássia Pedroga
+Gabriel Monteiro
+Juliana Aquino
+Cássia Pedroga
+Mariana Marimoto
+
+Distribuição final dos alunos:
+Juliana Aquino: 2 aluno(s)
+Cassiano Andalaft: 1 aluno(s)
+Mariana Marimoto: 2 aluno(s)
+Gabriel Monteiro: 2 aluno(s)
+Karl Richard: 1 aluno(s)
+Luciana Lunardi: 1 aluno(s)
+Lucas Ribeiro: 1 aluno(s)
+Maria Cristina: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+Larissa Pires: 1 aluno(s)
+Thais Alves: 1 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+ANA LUIZA VASCONCELOS JUNQUEIRA                    | Lucas Ribeiro
+ATILLA GABRIEL TRASLADAÇÃO                         | Mariana Marimoto
+CAMYLA DUARTE DOS SANTOS                           | Maria Cristina
+FERNANDA PEREIRA LEMOS BARBOSA                     | Larissa Pires
+GABRIELLI AMORIM SAMPAIO                           | Juliana Aquino
+JESSICA ALVES DE CASTRO SILVEIRA                   | Luciana Lunardi
+JOÃO VICTOR NUNES                                  | Gabriel Monteiro
+MARIA TEREZA DE OLIVEIRA SOUZA                     | Karl Richard
+CLARA FERREIRA SALAZAR                             | Thais Alves
+CLAUDIA MINGRONE                                   | Cassiano Andalaft
+GIOVANNA BICUDO FERREIRA                           | Cássia Pedroga
+ISADORA VELLOZO BEANI                              | Gabriel Monteiro
+LINDA NIZAR ELIAS                                  | Juliana Aquino
+MARIA FERNANDA CALDIRON DE SALLES FERRO            | Cássia Pedroga
+POLIANA ALBA LEONCIO                               | Mariana Marimoto
