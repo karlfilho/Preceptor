@@ -1,0 +1,50 @@
+Turno: Tarde
+
+Lista de preceptores sorteados:
+Alexandre Nosaki
+Caroline Panone
+Aline Evangelista
+Luiza da Gama
+Javier Rubio
+Cássia Pedroga
+Larissa Pires
+Elizandra Rosado
+Paulo Augusto
+Andrea Menezes
+Thomas Miklos
+Aline Evangelista
+Cássia Pedroga
+Andrea Menezes
+Javier Rubio
+
+Distribuição final dos alunos:
+Caroline Panone: 1 aluno(s)
+Elizandra Rosado: 1 aluno(s)
+Luiza da Gama: 1 aluno(s)
+Andrea Menezes: 2 aluno(s)
+Aline Evangelista: 2 aluno(s)
+Alexandre Nosaki: 1 aluno(s)
+Javier Rubio: 2 aluno(s)
+Thomas Miklos: 1 aluno(s)
+Paulo Augusto: 1 aluno(s)
+Larissa Pires: 1 aluno(s)
+Cássia Pedroga: 2 aluno(s)
+
+Tabela de alunos e preceptores:
+Aluno                                              | Preceptor
+----------------------------------------------------------------------
+GABRIELA CANO ZACCHARIAS                           | Alexandre Nosaki
+ISABELLA CORDEIRO BARONE                           | Caroline Panone
+JADE AKEMI OSHIRO MARTINS                          | Aline Evangelista
+LETICIA ALMEIDA DE SANTIS                          | Luiza da Gama
+MANUELA BRAGA PIRES                                | Javier Rubio
+SOPHIA BERMAL OLIVEIRA                             | Cássia Pedroga
+VINICIUS PERROT DAMACENA                           | Larissa Pires
+BEATRIZ GORDILHO BACOS                             | Elizandra Rosado
+BEATRIZ PRUTCHANSKY GONCALVES                      | Paulo Augusto
+CAROLINA CAMPOS TASSO NICASTRO                     | Andrea Menezes
+GIOVANNA PIRES DE LIMA MARTINS                     | Thomas Miklos
+LIVIA MARIA MÜLLER MURAD                           | Aline Evangelista
+MARIANA PINHEIRO LIMA                              | Cássia Pedroga
+VALENTINA COLOMBO BERGAMINI                        | Andrea Menezes
+VICTORIA BARCHI CORDTS                             | Javier Rubio
